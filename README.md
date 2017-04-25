@@ -1,4 +1,7 @@
-# api documentation for  [ng2-charts (v1.5.0)](https://github.com/valor-software/ng2-charts#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng2-charts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng2-charts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng2-charts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng2-charts)
+# npmdoc-ng2-charts
+
+#### basic api documentation for  [ng2-charts (v1.5.0)](https://github.com/valor-software/ng2-charts#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ng2-charts.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ng2-charts) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ng2-charts.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ng2-charts)
+
 #### Reactive, responsive, beautiful charts for Angular2 based on Chart.js
 
 [![NPM](https://nodei.co/npm/ng2-charts.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ng2-charts)
@@ -62,7 +65,8 @@
     },
     "scripts": {},
     "typings": "index.d.ts",
-    "version": "1.5.0"
+    "version": "1.5.0",
+    "bin": {}
 }
 ```
 
